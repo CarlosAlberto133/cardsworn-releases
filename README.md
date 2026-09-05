@@ -1,2 +1,2 @@
 # card-game-releases
-Builds do Card Game
+Builds do Cardsworn
